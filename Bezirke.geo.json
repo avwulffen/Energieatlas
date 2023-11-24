@@ -2214,26 +2214,7 @@
       },
       "id": "8d6b5b1a-ca58-44ea-b028-1ecb4a12686a",
       "vcsMeta": {
-        "version": "2.1",
-        "style": {
-          "stroke": {
-            "color": [
-              51,
-              153,
-              204,
-              1
-            ],
-            "width": 1.25
-          },
-          "fill": {
-            "color": [
-              197,
-              82,
-              82,
-              0.4
-            ]
-          }
-        }
+        "version": "2.1"
       }
     },
     {
